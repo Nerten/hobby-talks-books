@@ -18,3 +18,7 @@
 
 ## 287 After Show:
 - 'Ciaphas Cain: Choose Your Enemies' by **Sandy Mitchell**
+
+## 285 After Show:
+- 'Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think' by **Hans Rosling**
+  - [ru] 'Фактологичность: десять причин, почему наши суждения о мире ошибочны и почему дела лучше, чем мы думаем' - **Ханс Рослинг**
