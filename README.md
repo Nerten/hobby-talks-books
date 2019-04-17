@@ -5,7 +5,6 @@
   - [ru] 'Компьютерное подполье. Истории о хакинге, безумии и одержимости' - **Сьюлетт Дрейфус**
 - 'Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past' by **David Reich**
   - [ua] 'Хто ми такі? Походження людини крізь призму ДНК' - **Девід Райх**
- 
 
 ## 292 After Show:
 - 'Конструирование языков. От эсперанто до дотракийского' - **Александр Пиперски**
@@ -16,3 +15,6 @@
 - ♪ 'Mortal Engines' by **Philip Reeve**
   - [ru] 'Смертные машины' - **Филип Рив**
 - 'Война на уничтожение. Что готовил Третий Рейх для России' - **Яковлев, Пучков**
+
+## 287 After Show:
+- 'Ciaphas Cain: Choose Your Enemies' by **Sandy Mitchell**
