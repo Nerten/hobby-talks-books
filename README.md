@@ -23,6 +23,9 @@
 - 'Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think' by **Hans Rosling**
   - [ru] 'Фактологичность: десять причин, почему наши суждения о мире ошибочны и почему дела лучше, чем мы думаем' - **Ханс Рослинг**
   
+## 284 After Show:
+- 'Культ Ктулху' - **Роберт Прайс**
+  
 ## 280 After Show:
 - 'Задача трёх тел' - **Лю Цысинь**
 
