@@ -25,6 +25,8 @@
   
 ## 284 After Show:
 - 'Культ Ктулху' - **Роберт Прайс**
+- ♪ 'Behave: The Biology of Humans at Our Best and Worst' by **Robert M. Sapolsky**
+  - [ru] «Поведение. Биология в наших худших и лучших проявлениях» - **Роберт Сапольски**
   
 ## 280 After Show:
 - 'Задача трёх тел' - **Лю Цысинь**
