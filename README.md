@@ -1,8 +1,11 @@
 # Hobby talks books
 
-# 322 After Show:
+## 322 After Show:
 - 'Sleeping Giants' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/25733990-sleeping-giants)
     - [ru] Спящие гиганты - **Сильвен Нёвель**
+
+## 318 After Show:
+- 'Большая книга Шамана' - **Владимир Серкин**
 
 ## 298 After Show:
 - 'Underground' by **Suelette Dreyfus** - [www.underground-book.net](www.underground-book.net)
