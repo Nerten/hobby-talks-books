@@ -1,5 +1,9 @@
 # Hobby talks books
 
+# 322 After Show:
+- 'Sleeping Giants' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/25733990-sleeping-giants)
+    - [ru] Спящие гиганты - **Сильвен Нёвель**
+
 ## 298 After Show:
 - 'Underground' by **Suelette Dreyfus** - [www.underground-book.net](www.underground-book.net)
   - [ru] 'Компьютерное подполье. Истории о хакинге, безумии и одержимости' - **Сьюлетт Дрейфус**
