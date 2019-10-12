@@ -7,6 +7,9 @@
 ## 318 After Show:
 - 'Большая книга Шамана' - **Владимир Серкин**
 
+## 306 After Show:
+- 'World of WarCraft. Traveler' by **Greg Weisman**
+
 ## 298 After Show:
 - 'Underground' by **Suelette Dreyfus** - [www.underground-book.net](www.underground-book.net)
   - [ru] 'Компьютерное подполье. Истории о хакинге, безумии и одержимости' - **Сьюлетт Дрейфус**
