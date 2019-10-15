@@ -1,5 +1,8 @@
 # Hobby talks books
 
+## 323 After Show:
+- 'Waking Gods' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/30134847-waking-gods)
+
 ## 322 After Show:
 - 'Sleeping Giants' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/25733990-sleeping-giants)
     - [ru] Спящие гиганты - **Сильвен Нёвель**
