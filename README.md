@@ -1,7 +1,7 @@
 # Hobby talks books
 
 ## 332 After Show:
-- 'Злые самаритяне. Миф о свободной торговле и секретная история капитализма' - **Чанг Ха-Джун**
+- 'Злые самаритяне. Миф о свободной торговле и секретная история капитализма' - **Чанг Ха-Джун** ([ссылка](https://www.mann-ivanov-ferber.ru/books/zlyie-samarityane/))
 
 ## 323 After Show:
 - 'Waking Gods' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/30134847-waking-gods)
