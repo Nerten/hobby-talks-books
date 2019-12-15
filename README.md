@@ -3,6 +3,10 @@
 ## 332 After Show:
 - 'Злые самаритяне. Миф о свободной торговле и секретная история капитализма' - **Чанг Ха-Джун** ([ссылка](https://www.mann-ivanov-ferber.ru/books/zlyie-samarityane/))
 
+## 331 After Show
+- 'How Will Police Solve Murders on Mars?' - **Geoff Manaugh** ([ссылка](https://www.theatlantic.com/science/archive/2018/09/mars-pd/569668/))
+    - [ru] С какими сложностями столкнётся полиция при раскрытии преступлений на Марсе ([ссылка](https://tjournal.ru/science/76710-s-kakimi-slozhnostyami-stolknetsya-policiya-pri-raskrytii-prestupleniy-na-marse))
+
 ## 323 After Show:
 - 'Waking Gods' by **Sylvain Neuvel** - [Goodreads page](https://www.goodreads.com/book/show/30134847-waking-gods)
 
