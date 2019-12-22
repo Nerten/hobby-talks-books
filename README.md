@@ -1,5 +1,9 @@
 # Hobby talks books
 
+## 333 After Show:
+- 'Skin in the Game: The Hidden Asymmetries in Daily Life' - **Nassim Nicholas Taleb** ([Goodreads](https://www.goodreads.com/book/show/36064445-skin-in-the-game))
+- 'Солярис' - **Станислав Лем** ([ссылка](https://ast.ru/book/solyaris-152225/))
+
 ## 332 After Show:
 - 'Злые самаритяне. Миф о свободной торговле и секретная история капитализма' - **Чанг Ха-Джун** ([ссылка](https://www.mann-ivanov-ferber.ru/books/zlyie-samarityane/))
 
