@@ -1,5 +1,14 @@
 # Hobby talks books
 
+## 384 After Show:
+- 'Хроники Амбера' - **Роджер Желязны**
+- 'Двери в лето' - **Роберт Хайнлайн**
+- 'Автобиография' — **Бенджамин Франклин**
+
+## 384:
+- 'Как падают рынки. Логика экономических катастроф' — **Джон Кэссиди**
+- 'Планета Понци' — **Митч Файерстайн**
+
 ## 333 After Show:
 - 'Skin in the Game: The Hidden Asymmetries in Daily Life' - **Nassim Nicholas Taleb** ([Goodreads](https://www.goodreads.com/book/show/36064445-skin-in-the-game))
 - 'Солярис' - **Станислав Лем** ([ссылка](https://ast.ru/book/solyaris-152225/))
